@@ -10,6 +10,9 @@ OpenWeatherMap is a good example, scoping to say `London, UK` from this plugin l
 Locations and currencies are also decorated with their standard ISO codes which may prove useful to other plugins too.
 A plugin providing Foreign Exchange rates, for example, could be scoped to the currency objects from this plugin.
 
+## Setup
+Nothing special, just pick which types of objects you want to import
+
 ## Graph Import
  * AWS and Azure cloud regions
  * Countries

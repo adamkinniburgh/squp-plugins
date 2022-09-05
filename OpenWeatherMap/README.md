@@ -5,6 +5,9 @@ A neat service that lets you get live and historical weather stats for a given l
 Their free plan is fine for infrequent use and short term data.
 Consider a paid plan for heavier usage (API limitations otherwise) or longer-term forecasting.
 
+## Setup
+Grab an API key from https://openweathermap.org/price
+
 ## Graph Import
 None - See the Geodata plugin for scope objects
 
