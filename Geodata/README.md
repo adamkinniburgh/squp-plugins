@@ -1,7 +1,7 @@
 # Geodata
 
 ## Description
-This is a pretty simple plugin that creates graph objects representing
+This is a pretty simple plugin that creates graph objects representing places and currencies.
 
 Each of the geographical nodes contains a `latitude` and `longitude` property to denote where it is.
 Other plugins may choose to provide Data Streams that can surface geographical data using these properties.
