@@ -1,8 +1,11 @@
-# SquaredUp Plugins
+# SquaredUp Community Plugins
 
-This repo is home for docs for the random plugins I've made for fun for [SquaredUp](https://app.squaredup.com)
+This repo is home for some basic docs for the plugins I've made for fun for [SquaredUp](https://app.squaredup.com)
 
 > **NOTE**: None of the source code is stored here
+
+## Docs
+Each of the folders in this repo contains a readme with some basic overview and setup info.
 
 ## Issues or Feature Requests
 

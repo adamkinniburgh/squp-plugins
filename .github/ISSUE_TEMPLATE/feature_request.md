@@ -7,8 +7,8 @@ assignees: adamkinniburgh
 
 ---
 
-**Which plugin does your request relate to?**
-Just the plugin name is fine.
+**Which plugin does this relate to?**
+Just the name is fine.
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
